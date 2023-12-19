@@ -1,4 +1,2 @@
-sample upload
-
 Download weights file from below link
 https://drive.google.com/file/d/1lEDaXyvHiD7qZysSPRpHF339yEKtlQTr/view?usp=sharing
